@@ -1,3 +1,3 @@
-_BASE_DIR = 'C:\\Users\\tommaso\\Documents\\_Bicocca\\Magistrale\\Data Semantics\\SemanticCities\\'
-_COCA_PATH = 'C:\\COCA.zip'
-_MODEL_PATH = 'C:\\Users\\tommaso\\Documents\\_Bicocca\\Magistrale\\Data Semantics\\SemanticCities\\grosso_SG_lemmatize.pkl'
+_BASE_DIR = r'C:\Users\merlo\Jupyter Notebook\data_semantics\SemanticCities'
+_COCA_PATH = r'E:\CORPUS\COCA'
+_MODEL_PATH = r'C:\Users\merlo\Jupyter Notebook\data_semantics'

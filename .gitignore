@@ -1,5 +1,6 @@
 # Personal project paths
-# _paths.py
+_paths.py
+my_paths.py
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
